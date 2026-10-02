@@ -1,0 +1,2 @@
+# premium-iac-tf-001-terraform-module-structure-tem
+Your Terraform modules are scattered across docs, Slack threads, and tribal knowledge—costing your team hours debugging inconsistent infrastructure code. The Terraform Module Structure Template brings order to chaos by giving you a battle-tested framework to document, organize, and scale your IaC modules inside Notion.  Stop reinventing module docu
